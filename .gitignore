@@ -1,0 +1,6 @@
+# Copilot sharing copies are kept locally and excluded from GitHub.
+/StatProgramAlpha1/Text File Versions to Share with COPILOT AI/
+
+# Python-generated cache files.
+__pycache__/
+*.pyc
